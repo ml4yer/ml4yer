@@ -33,6 +33,6 @@
 <a href = "https://twitter.com/ml4yer"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/m1rz4yldrn/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCKUdF9NdvSycG_9oA5Hyyzg/featured"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href="https://icons8.com/icon/G9XXzb9XaEKX/spotify">Spotify icon by Icons8</a>
+<a href = "https://open.spotify.com/user/31ewslobvxlfbbanl7xnhjk2vqsm?si=5e5f9a07960e45f0"><img src="https://img.icons8.com/fluency/48/000000/spotify.png"/></a>
 
 </p>
