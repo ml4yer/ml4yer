@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mirza0yildiran@icloud.com**
 
-- ⚡ Fun fact **I play games and i go outside very often**
+- ⚡ Fun fact **i go outside very often**
 
 ## 🚀 Languages and Tools:
 
