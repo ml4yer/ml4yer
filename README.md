@@ -6,13 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **MacroThoughts**
+- 🔭 I’m currently working on **MacroThoughts Projects**
 
 - 🌱 I’m currently learning **Ethical Hacking**
 
 - 📫 How to reach me **mirza0yildiran@icloud.com**
-
-- ⚡ Fun fact **i go outside very often**
 
 ## 🚀 Languages and Tools:
 
